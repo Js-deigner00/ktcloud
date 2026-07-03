@@ -642,8 +642,8 @@
     width:16px;height:16px;
     flex:none;
     background-color:var(--muted);
-    -webkit-mask:url("https://raw.githubusercontent.com/Js-deigner00/kt-landing/main/dashboard.svg") center/contain no-repeat;
-    mask:url("https://raw.githubusercontent.com/Js-deigner00/kt-landing/main/dashboard.svg") center/contain no-repeat;
+    -webkit-mask:url("https://raw.githubusercontent.com/Js-deigner00/ktcloud/main/dashboard.svg") center/contain no-repeat;
+    mask:url("https://raw.githubusercontent.com/Js-deigner00/ktcloud/main/dashboard.svg") center/contain no-repeat;
     transition:background-color .15s;
   }
   .side-item:hover .chk,
@@ -768,7 +768,7 @@
     width:260px;
     height:260px;
     transform:translateY(-50%);
-    background-image:url("https://raw.githubusercontent.com/Js-deigner00/kt-landing/main/slide.svg");
+    background-image:url("https://raw.githubusercontent.com/Js-deigner00/ktcloud/main/slide.svg");
     background-repeat:no-repeat;
     background-position:center;
     background-size:contain;
